@@ -22,7 +22,8 @@
 - Opción para los usuarios de marcar sus libros favoritos.
 - Sistema de comentarios y calificaciones para que los usuarios puedan compartir sus opiniones sobre los libros.
 - Sección de noticias o eventos relacionados con la biblioteca, como clubes de lectura, presentaciones de libros, etc.
-## Posibles nombres: - AlphaReads
+## Posibles nombres: 
+###         - AlphaReads
 ###         - OmegaOpen
 ###         - ReadReise
 ###         - LibroLicht
