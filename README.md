@@ -1,12 +1,4 @@
 # Proyecto-IIS_Biblioteca
-# Nombres: - AlphaReads
-#          - OmegaOpen
-#         - ReadReise
-#          - LibroLicht
-#          - BiblioBlitz
-#          - PagePfad
-#          - TextTheos
-#          - AlphaArt
 ## Ideas a implementar:
 - Proyecto enfocado en la visualización de libros online o presencial.
 - Creación de perfiles de clientes y empleados
@@ -30,3 +22,11 @@
 - Opción para los usuarios de marcar sus libros favoritos.
 - Sistema de comentarios y calificaciones para que los usuarios puedan compartir sus opiniones sobre los libros.
 - Sección de noticias o eventos relacionados con la biblioteca, como clubes de lectura, presentaciones de libros, etc.
+## Posibles nombres: - AlphaReads
+###         - OmegaOpen
+###         - ReadReise
+###         - LibroLicht
+###         - BiblioBlitz
+###         - PagePfad
+###         - TextTheos
+###         - AlphaArt
