@@ -24,10 +24,4 @@
 - Sección de noticias o eventos relacionados con la biblioteca, como clubes de lectura, presentaciones de libros, etc.
 ## Posibles nombres: 
 ###         - AlphaReads
-###         - OmegaOpen
-###         - ReadReise
-###         - LibroLicht
-###         - BiblioBlitz
-###         - PagePfad
 ###         - TextTheos
-###         - AlphaArt
