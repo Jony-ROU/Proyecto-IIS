@@ -1,6 +1,6 @@
 # Proyecto-IIS_Biblioteca - TextTheos
+- Nuestro proyecto estará basado en la visualización de libros de forma online y/o presencial, de forma que el cliente pueda obtener el libro desde la comodidad de su hogar, ya sea descargándolo o desde la página web, o que obtenga sus libros de forma física yendo a unos de nuestros puntos de venta. 
 ## Ideas a implementar:
-- Proyecto enfocado en la visualización de libros online o presencial.
 - Creación de perfiles de clientes y empleados
 - Reserva de asientos físicos junto con la asistencia de público
 - Libros disponibles desde la web
